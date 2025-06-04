@@ -1,0 +1,4 @@
+--class-path src
+--cpp export
+--main Main
+-D HAXE_OUTPUT_FILE=Mommy
