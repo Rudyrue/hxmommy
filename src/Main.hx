@@ -116,6 +116,7 @@ class Main {
 				// generic~
 				"*pets your head*",
 				"amazing work as always",
+				"#CAREGIVER loves you, honey",
 
 				// good (X)~
 				"good #SWEETIE",
